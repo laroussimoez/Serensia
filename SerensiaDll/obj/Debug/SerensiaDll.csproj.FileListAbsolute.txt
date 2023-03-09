@@ -1,0 +1,9 @@
+C:\Users\RILARMO\Downloads\SERENSIA\Serensia\SerensiaDll\obj\Debug\SerensiaDll.csproj.CoreCompileInputs.cache
+C:\Users\RILARMO\Downloads\SERENSIA\Serensia\SerensiaDll\bin\Debug\SerensiaDll.dll
+C:\Users\RILARMO\Downloads\SERENSIA\Serensia\SerensiaDll\bin\Debug\SerensiaDll.pdb
+C:\Users\RILARMO\Downloads\SERENSIA\Serensia\SerensiaDll\bin\Debug\HtmlAgilityPack.dll
+C:\Users\RILARMO\Downloads\SERENSIA\Serensia\SerensiaDll\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\RILARMO\Downloads\SERENSIA\Serensia\SerensiaDll\bin\Debug\HtmlAgilityPack.xml
+C:\Users\RILARMO\Downloads\SERENSIA\Serensia\SerensiaDll\obj\Debug\SerensiaDll.csproj.CopyComplete
+C:\Users\RILARMO\Downloads\SERENSIA\Serensia\SerensiaDll\obj\Debug\SerensiaDll.dll
+C:\Users\RILARMO\Downloads\SERENSIA\Serensia\SerensiaDll\obj\Debug\SerensiaDll.pdb
